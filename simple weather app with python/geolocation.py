@@ -1,0 +1,2 @@
+Latitude = None
+Longitude = None
